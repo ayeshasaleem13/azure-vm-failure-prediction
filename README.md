@@ -6,10 +6,21 @@
 [![Kaggle Dataset](https://img.shields.io/badge/Dataset-Kaggle-20BEFF?logo=kaggle)](https://www.kaggle.com/datasets/arnabbiswas1/microsoft-azure-predictive-maintenance)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-> 
+> **Fatima Jinnah Women University — Department of Computer Science**  
+> Course: Data Analytics | Semester VI-B  
+> Submitted To: Dr. Sadaf Abdul Rauf
+
 ---
 
+## 👩‍💻 Group Members
 
+| Name | Reg No. | Sections Covered |
+|---|---|---|
+| Amna Javed | 2023-BCS-009 | Section 1 — Data Collection & Setup |
+| Aqsa Fida | 2023-BCS-014 | Section 2 — EDA & Outlier Treatment (Steps 8–15) |
+| Mishal Raziq | 2023-BCS-064 | Section 2 — Feature Engineering (Steps 16–22) |
+| Rabbia Noor | 2023-BCS-070 | Section 2 — Encoding & Export (Steps 23–28) |
+| Saniya Rizwan | 2023-BCS-079 | Section 3 & 4 — Analysis & Visualisation |
 
 ---
 
@@ -326,4 +337,4 @@ Code in this repository is available under the [MIT License](LICENSE).
 
 ---
 
-*Fatima Jinnah Women University | Department of Computer Science | Data Analytics — Semester VI-B*# azure-vm-failure-prediction
+*Fatima Jinnah Women University | Department of Computer Science | Data Analytics — Semester VI-B*
